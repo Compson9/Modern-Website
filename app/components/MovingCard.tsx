@@ -14,7 +14,6 @@ export function MovingCard() {
     </div>
   );
 }
-
 const testimonials = [
   {
     quote:
