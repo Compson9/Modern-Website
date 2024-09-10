@@ -45,7 +45,7 @@ export function FeaturesSection() {
     },
   ];
   return (
-    <div className="relative z-20 py-10 mt-[-150px] lg:py-40 max-w-7xl mx-auto">
+    <div className="relative z-20 py-10 mt-[-100px] lg:py-40 max-w-7xl mx-auto">
       <div className="px-8">
         <motion.h4 className="text-3xl lg:text-5xl lg:leading-tight max-w-5xl mx-auto text-center tracking-tight font-medium text-black dark:text-white"
           initial={{ opacity: 0.2 }}
