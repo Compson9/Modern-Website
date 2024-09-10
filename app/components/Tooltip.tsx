@@ -50,9 +50,10 @@ export function Tooltip() {
   return (
     <div className="flex flex-row items-center lg:mt-20 justify-center mb-10 w-full">
       <AnimatedTooltip items={people} />
-      <p className="absolute mt-[120px] opacity-70 font-regular text-black dark:text-white"> 100+ Developers on board </p>
+      <p className="absolute lg:mt-[120px] mt-30 opacity-70 font-regular text-black dark:text-white"> 100+ Developers on board </p>
     </div>
   );
 }
+
 
 
