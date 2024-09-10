@@ -14,7 +14,7 @@ export function BackgroundLine() {
           painters, marathon enthusiasts and RDX, totally free.
         </p>
       </BackgroundLines>
-      <div className="mt-[-200px]">
+      <div className="lg:mt-[-200px] mt-20">
         <Tooltip />
       </div>
     </div>
